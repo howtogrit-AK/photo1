@@ -1,0 +1,7 @@
+{
+  "name": "AI Professional Headshot Studio",
+  "description": "Upload your casual photos and transform them into professional, studio-quality headshots perfect for resumes and LinkedIn using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
